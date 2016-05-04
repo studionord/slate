@@ -130,7 +130,7 @@ api.kittens.get(2)
 ```
 
 ```shell
-curl "http://example.com/api/kittens/2"
+curl "http://lib.connectbox.co"
   -H "Authorization: meowmeowmeow"
 ```
 
